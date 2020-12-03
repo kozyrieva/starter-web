@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Kristina Kozyrieva   Automation QA Engineer  kkozyrieva@stamps.com
 
 # THANKS
 
